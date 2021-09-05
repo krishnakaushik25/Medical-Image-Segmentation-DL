@@ -13,7 +13,7 @@ Computer vision library used : OpenCV
 
 Other python libraries :
 
-<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-small.png" width=150>
+[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-small.png" >](https://github.com/scikit-learn/)
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=150>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=150>
 <img target="_blank" src="https://github.com/krishnakaushik25/Medical-Image-Segmentation-DL/blob/master/images/albumentations.png" width=150>
