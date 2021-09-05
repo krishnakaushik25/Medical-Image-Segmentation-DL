@@ -7,7 +7,7 @@ Implemented Unet++ models for medical image segmentation to detect and classify 
 <br />
 <p align="center">
   <a href="https://github.com/krishnakaushik25/Medical-Image-Segmentation-DL">
-    <img src="images/polyp.jpg" alt="Logo" width="180" height="180">
+    <img src="images/polyp.jpg" alt="Logo" width="380" height="380">
   </a>
 
   <h3 align="center">Medical Image Segmentation to Detect And Classify Colorectal Polyps</h3>
