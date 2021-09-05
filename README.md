@@ -61,10 +61,6 @@ Other python libraries :
 <img target="_blank" src="https://github.com/krishnakaushik25/Medical-Image-Segmentation-DL/blob/master/images/albumentations.png" width=150>
 
 
-Data Source(iMaterialist Challenge on Product Recognition) 
-
-https://www.kaggle.com/c/imaterialist-product-2019/overview 
-
 
 ## Data and Code Overview :
 
