@@ -18,10 +18,10 @@ Implemented Unet++ models for medical image segmentation to detect and classify 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
-    <li><a href="##Business Objective">Business Objective</a></li>
-    <li><a href="##Goal">Goal</a></li>
-    <li><a href="##Tech Stack">Tech Stack</a></li>
-    <li><a href="##Data and Code Overview">Data and Code Overview</a></li>
+    <li><a href="#business-objective">Business Objective</a></li>
+    <li><a href="#goal">Goal</a></li>
+    <li><a href="#tech-stack">Tech Stack</a></li>
+    <li><a href="#data-and-code-overview-">Data and Code Overview</a></li>
     <li><a href="#approach-steps">Approach Steps</a></li>
     <li><a href="#project-takeaways">Project Takeaways</a></li>
   
