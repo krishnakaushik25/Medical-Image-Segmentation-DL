@@ -1,0 +1,11 @@
+tqdm
+glob2
+numpy
+pandas
+sklearn
+argparse
+matplotlib
+PyYAML==3.13
+torch==1.8.1
+albumentations
+opencv-python==4.1.2.30
